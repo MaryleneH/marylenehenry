@@ -1,7 +1,7 @@
-# marylenehenry
+#  Le package R marylenehenry
 Package Exercice
 
-##Pour utiliser le package
+## Pour utiliser le package
 
 `install_github("MaryleneH/marylenehenry")`   
 `library(marylenehenry)`   
